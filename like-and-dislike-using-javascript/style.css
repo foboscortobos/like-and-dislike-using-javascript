@@ -61,5 +61,5 @@ body::after{
   backdrop-filter: blur(15px);
   box-shadow: 5px 5px 30px rgba(0,0,0,.2);
   border-radius: 50%;
-  color: #fff;
+  color: #xxx;
 }
